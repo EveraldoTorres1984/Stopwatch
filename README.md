@@ -1,0 +1,1 @@
+Cronômetro de fácil utilização com suas funções básicas.
